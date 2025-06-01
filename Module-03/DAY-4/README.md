@@ -28,8 +28,8 @@ v)Print each token using token.nextToken().
  ```
 /*
 Program to implement a String Tokenizer using Java
-Developed by: SHAKTHI KUMAR S
-RegisterNumber: 212222110043 
+DDeveloped by: NAVIN KUMAR J
+RegisterNumber: 212222240071
 */
 ```
 

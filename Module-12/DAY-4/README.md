@@ -25,8 +25,8 @@ To Write a java program to display the added elements from the Priority Queue.
  ```
 /*
 Program to implement a JAVA QUEUE using Java
-Developed by: SHAKTHI KUMAR S
-RegisterNumber: 212222110043
+Developed by: NAVIN KUMAR J
+RegisterNumber: 212222240071
 */
 ```
 

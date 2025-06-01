@@ -20,8 +20,8 @@ j.	End the program.
  ```
 /*
 Program to implement a STRING WRITER
-Developed by: SHAKTHI KUMAR S
-RegisterNumber: 212222110043
+Developed by: NAVIN KUMAR J
+RegisterNumber: 212222240071
 */
 ```
 
