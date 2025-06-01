@@ -28,8 +28,8 @@ vi)Display the product using getProduct().
  ```
 /*
 Program to implement a Data Hiding & Encapsulation using Java
-Developed by: NAVIN KUMAR J
-RegisterNumber: 212222240071
+Developed by: KRISHNA S
+RegisterNumber: 212222060124
 */
 ```
 

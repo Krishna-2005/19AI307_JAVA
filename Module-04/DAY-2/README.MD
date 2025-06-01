@@ -24,8 +24,8 @@ To create  a Java program to perform the inheritance concept for employee detail
  ```
 /*
 Program to implement a Inheritance using Java
-Developed by: NAVIN KUMAR J
-RegisterNumber: 212222240071
+Developed by: KRISHNA S
+RegisterNumber: 212222060124
 */
 ```
 

@@ -19,8 +19,8 @@ To write a Java program that takes continuous input from the user using InputStr
  ```
 /*
 Program to implement a INPUT STREAM READER
-Developed by: NAVIN KUMAR J
-RegisterNumber: 212222240071
+Developed by: KRISHNA S
+RegisterNumber: 212222060124
 */
 ```
 

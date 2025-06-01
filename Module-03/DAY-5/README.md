@@ -14,8 +14,8 @@ To write a Java program that prints a new value by modifying an existing StringB
  ```
 /*
 Program to implement a StringBuilder Object Reference in Java
-Developed by: NAVIN KUMAR J
-RegisterNumber: 212222240071
+Developed by: KRISHNA S
+RegisterNumber: 212222060124
 */
 ```
 

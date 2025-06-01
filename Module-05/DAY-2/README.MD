@@ -41,8 +41,8 @@ v)Get and print the area using getArea().
  ```
 /*
 Program to implement a tightly encapsulated class using Java
-Developed by: NAVIN KUMAR J
-RegisterNumber: 212222240071
+Developed by: KRISHNA S
+RegisterNumber: 212222060124
 */
 ```
 
